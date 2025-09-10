@@ -80,4 +80,4 @@ Outside research, I am committed to **inclusion and accessibility**. Since 2012,
 - 📧 [prisca.dotti@outlook.com](mailto:prisca.dotti@outlook.com)  
 - 🔗 [GitHub](https://github.com/dottipr)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/prisca-dotti-a920b428b/)  
-- 📄 [Download my CV](assets/CV.pdf)  
+- 📄 [Download my CV](assets/Dotti_CV_2025.pdf)  
