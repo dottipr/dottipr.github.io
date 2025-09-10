@@ -1,0 +1,2 @@
+- add teaching/lectures section
+- projects section instead of research highlights
