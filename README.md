@@ -1,5 +1,3 @@
-# Prisca Dotti  
-
 👋 Hi, I’m Prisca, a **machine learning scientist and bioinformatician** passionate about applying mathematical and computational methods to solve complex problems in biology and medicine.  
 
 I hold a **PhD in Biomedical Engineering (University of Bern)** and an **MSc in Mathematics (EPFL)**. Currently, I work as a **Data Analyst at the SIB Swiss Institute of Bioinformatics**, where I design and evaluate ML/AI strategies for genomic datasets.  
