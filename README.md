@@ -6,7 +6,7 @@ I hold a **PhD in Biomedical Engineering (University of Bern)** and an **MSc in 
 
 My research and work experience bridge **deep learning, mathematics, and biomedical sciences**, with a focus on:  
 - AI-driven biomedical imaging (3D U-Net, CNNs, GNNs)  
-- Imaging and genomic data and analysis and feature selection  
+- Imaging and genomic data analysis and feature selection  
 - Reproducible workflows and collaborative open science  
 - Interdisciplinary projects between computational and biological domains  
 
