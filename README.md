@@ -10,7 +10,7 @@ My research and work experience bridge **deep learning, mathematics, and applied
 - Interdisciplinary projects spanning computational, biological, and engineering domains
 
 ---
- 
+
 ## Work Highlights
  
 - **AI Consultant — Artificialy** *(Dec 2025 – Present)*
@@ -21,8 +21,9 @@ My research and work experience bridge **deep learning, mathematics, and applied
   Designed and implemented ML pipelines for feature selection and predictive modelling on genomic datasets. Contributed to the open-source package [PAGEpy](https://github.com/dottipr/PAGEpy).
 - **Visiting Research Scientist — University of Melbourne** *(Jun 2024)*
   Validated deep learning models using mechanistic modelling and synthetic datasets to improve segmentation accuracy in microscopy imaging.
+
 ---
- 
+
 ## Research Highlights
  
 - **Deep learning for subcellular calcium imaging**
@@ -41,7 +42,7 @@ My research and work experience bridge **deep learning, mathematics, and applied
   Contributor to [PAGEpy](https://github.com/dottipr/PAGEpy), a bioinformatics package for genomic feature selection and classification.
 
 ---
- 
+
 ## Publications
  
 - Prisca Dotti *et al.* (2024).
@@ -50,8 +51,9 @@ My research and work experience bridge **deep learning, mathematics, and applied
 - Stammet C, Dotti P, Ultes-Nitsche U, Fischer A. (2022).
   *Analyzing Büchi Automata with Graph Neural Networks.*
   **Preprint.** [DOI link](https://doi.org/10.48550/arXiv.2206.09619)
+
 ---
- 
+
 ## Conferences
  
 - ESC Working Group on Cardiac Cellular Electrophysiology – Toledo, Spain (2022)
@@ -60,13 +62,13 @@ My research and work experience bridge **deep learning, mathematics, and applied
 - Bern Data Science Day – Bern, Switzerland (2023)
 
 ---
- 
+
 ## Beyond Research
  
 Outside work, I am committed to **inclusion and accessibility**. Since 2012, I've volunteered with the Ticino Association of Parents and Friends of Children in Need of Special Education, leading inclusive camps for neurodiverse youth.
- 
+
 ---
- 
+
 ## Skills
  
 - 🖥️ **Programming & Tools**
