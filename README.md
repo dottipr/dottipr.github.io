@@ -8,6 +8,7 @@ My research and work experience bridge **deep learning, mathematics, and applied
 - Genomic data analysis, feature selection, and predictive modelling
 - Reproducible workflows, open-source development, and collaborative science
 - Interdisciplinary projects spanning computational, biological, and engineering domains
+
 ---
  
 ## Work Highlights
@@ -38,6 +39,7 @@ My research and work experience bridge **deep learning, mathematics, and applied
   Visiting Research Scientist at the University of Melbourne, validating deep learning models with synthetic data and mechanistic models.
 - **Open-source contributions**
   Contributor to [PAGEpy](https://github.com/dottipr/PAGEpy), a bioinformatics package for genomic feature selection and classification.
+
 ---
  
 ## Publications
@@ -56,6 +58,7 @@ My research and work experience bridge **deep learning, mathematics, and applied
 - Biophysical Society Annual Meeting – San Diego, USA (2023)
 - German Physiological Society – Berlin, Germany (2023)
 - Bern Data Science Day – Bern, Switzerland (2023)
+
 ---
  
 ## Beyond Research
@@ -77,5 +80,4 @@ Outside work, I am committed to **inclusion and accessibility**. Since 2012, I'v
   Statistics, optimisation, linear algebra, graph theory, signal processing, automata theory
 - 🌍 **Languages**
   Italian (native), English (fluent), French (fluent), German (intermediate)
----
  
